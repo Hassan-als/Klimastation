@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+raumklima.db
+*.db-journal
+config.py
+esp32/config.py
