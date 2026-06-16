@@ -46,5 +46,5 @@ curl -X POST http://127.0.0.1:5001/api/measurements \
 ## Test GET
 
 ```bash
-curl http://127.0.0.1:5001/api/measurements
+curl http://127.0.0.1:5001/api/measurement
 ```
